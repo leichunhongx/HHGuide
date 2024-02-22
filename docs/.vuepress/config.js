@@ -1,4 +1,5 @@
 module.exports = {
+  base:"/HHGuide/",
   lang: 'zh-CN',
   title: '雷小鸿',
   description: '鸿鸿coding',
