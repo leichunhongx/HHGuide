@@ -1,12 +1,10 @@
 ---
-title: 2024年最新ChatGPT Plus升级教程
+title: 如何更新ChatGPT Plus、GPT4升级详细教程
 description: ChatGPT 升级，ChatGPT Plus应用场景，ChatGPT Plus学习，GPT-4，GPT4
 meta:
-  -
-    name: description
+  - name: description
     content: ChatGPT升级，ChatGPT Plus应用场景，ChatGPT Plus学习，GPT-4，GPT4
-  -
-    name: keywords
+  - name: keywords
     content: ChatGPT、ChatGPT Plus、GPT-4、GPT4、ChatGPT升级
 date: 2024-01-20 12:10:08
 permalink:
@@ -15,7 +13,8 @@ categories:
 tags:
   - 
 ---
-# 2024年最新ChatGPT Plus、GPT-4保姆级升级教程（如何使用虚拟信用卡升级ChatGPT Plus）
+
+# 如何更新ChatGPT Plus，GPT4、GPT-4升级详细教程
 
 我们公司有业务做海外广告业务，之前公司给申请的ChatGPT账号，最近想升级为GPT4，自己踩了很多坑后，在朋友的帮助下，我找到一个对用户最友好、最快捷简单的方式，全流程非常流畅，实测大概 2 分钟以内搞定！
 
@@ -27,7 +26,8 @@ tags:
 
 尽管这两个账户可以是同一个，但它们是完全独立的平台。例如，您用20美元开通了Plus会员，这样您就可以在CHAT GPT的官网上自由使用GPT-4、GPT-S等大型模型进行对话。
 
-然而，这并不意味着您也拥有了4.0的API。如果您想使用这个4.0的AI密钥，您需要单独前往Open API的API接口平台，并申请这个4.0的接口。随后，不论是3.5还是4.0版本，使用Open IT的密钥的费用是单独核算的，这两者之间没有费用的重叠。会员费用是每月20美元。而Open IT的API则根据token计费，并且采用信用制度，即先使用后扣款。因此，如果我们希望获得这个4.0的密钥，平台要求我们在上面绑定卡之后方可获得。
+然而，这并不意味着您也拥有了4.0的API。如果您想使用这个4.0的AI密钥，您需要单独前往Open API的API接口平台，并申请这个4.0的接口。随后，不论是3.5还是4.0版本，使用Open
+IT的密钥的费用是单独核算的，这两者之间没有费用的重叠。会员费用是每月20美元。而Open IT的API则根据token计费，并且采用信用制度，即先使用后扣款。因此，如果我们希望获得这个4.0的密钥，平台要求我们在上面绑定卡之后方可获得。
 
 ## **1.快速注册OpenAI账户**
 
@@ -36,9 +36,7 @@ tags:
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-000820.png)
 
-
 ## **2.WildCard平台注册虚拟信用卡**
-
 
 开通plus之前，我们得先去了解一个平台wild card这个平台是提供海外信用卡服务的（因为GPT不能绑定国内的卡）。WildCard是一个专门提供海外虚拟信用卡的平台，它的初衷是为了解决用户升级为plus会员的难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
@@ -51,7 +49,6 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 填写手机号码，获取验证码，邀请码填 GTP310 享受8折优惠！！
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232605.png)
 
-
 为了完成注册，我们需要进行一次人脸验证，对于这一步骤，有些人可能会对安全性产生担忧，简单解释一下。
 
 实际上，整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人。
@@ -63,18 +60,15 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-004130.png)
 
-
 **重点：这个虚拟卡卡片，不仅可以用来订阅 ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OPenAI API，Midjourney，Apple Store，Google Play等等）~**
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/1280X1280.PNG)
-
 
 **关键是！！随时可以提现，不用担心钱充进去就取不出来了，如果没消费成功，本人实测可以秒提现到支付宝：**
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG220.jpg)
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG221.jpg)
-
 
 然后我们回到最开始账号注册的页面
 
@@ -97,29 +91,22 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 一旦您确认收到邮件，将邮件地址复制并粘贴到远程环境中进行验证。 验证通过后，系统会要求您输入基本信息，如您所见，账号注册已经成功。到这一步，整个注册流程就已经完成。
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-003854.png)
 
-
-
 ## **3.升级ChatGPT Plus（GPT-4）**
 
 **第一步：** 首先在你注册完虚拟卡后来到首页点击升级按钮
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG166.jpg)
 
-
 **第二步：** 然后我们先要登录自己的ChatGPT账号（[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)），
 进入如下界面如图操作，来到付款界面后，我们复制该界面的链接
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-233746.png)
 
-
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-234142.png)
-
-
 
 **第三步：** 将复制的链接粘贴到最右边框中，然后我们点击一键升级ChatGPT按照下图流程，并进行付费就可以升级完成GPT4了！！
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-234246.png)
-
 
 ## **4.绕过官方入口，直接进入升级支付**
 
@@ -131,16 +118,13 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001512.png)
 
-
 按照下面的方式完成信息填写。
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001543.png)
 
-
 填写完信息点击订阅弹出下面的界面就大功告成了！！
 
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001601.png)
-
 
 ## **5.ChatGPT Plus信用卡付款被拒**
 
@@ -148,10 +132,10 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 主要以下几点原因：
 
--   你的卡余额不足
--   尝试更换IP地址、支付卡或账单地址来绑定卡片成功的可能性较低
--   如果在登录账号时需要输入短信验证码，或在支付页面需要验证码，这可能意味着账号被视为高风险。
--   OpenAI可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
+- 你的卡余额不足
+- 尝试更换IP地址、支付卡或账单地址来绑定卡片成功的可能性较低
+- 如果在登录账号时需要输入短信验证码，或在支付页面需要验证码，这可能意味着账号被视为高风险。
+- OpenAI可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
 
 如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以**直接找wildcard开卡客服协助绑定**，1 分钟搞定。
 
@@ -159,5 +143,6 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 在用自己visa等信用卡购买时，常常会被拒付：OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付。
 
-**最好的方式是新开一张虚拟信用卡**（也就是本文提到的 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) ），这样可以避开风控系统，最最彻底的是连 ChatGPT 账号都重新注册。
+**最好的方式是新开一张虚拟信用卡**（也就是本文提到的 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) ），这样可以避开风控系统，最最彻底的是连 ChatGPT
+账号都重新注册。
 
