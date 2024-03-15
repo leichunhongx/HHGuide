@@ -35,11 +35,11 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 WildCard平台是国内的公司开发的，专门解决国内用户ChatGPT账号注册、升级GPT4，注册手机号选择+86的，使用支付宝进行实名认证付款，用支付宝意味着是因为走银联通道购汇，绝对安全可靠无隐私问题。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232031.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
 
 填写手机号码，获取验证码，邀请码填 **GPT310 享受88折优惠！！**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232605.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232605.png)
 
 ChatGPT注册过程中，需要进行一次人脸验证，这一步骤，有人可能会对安全性产生担忧，详细解释一下。
 
@@ -47,19 +47,19 @@ ChatGPT注册过程中，需要进行一次人脸验证，这一步骤，有人�
 
 这个步骤基本上适用于任何第三方银行卡平台，无论是虚拟信用卡还是实际信用卡，都需要完成实名认证。实名是为了防止洗钱，平台绝对没问题自己一直也在用，包括GPT-4每月的扣费，买些国外的域名需要付款这种！
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-212031%402x.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-212031%402x.png)
 
 ChatGPT注册成功后，平台开通了一张卡片（这个就是境外虚拟信用卡），开通的是有效期2年的信用卡，开卡费包含两年年费，大约100元RMB，没有其他费用，后续需要升级GPT-4需要充钱进去扣费升级步骤见下文。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-004130.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
 **重点：这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OPenAI API，Apple Store，Google Play，Midjourney，Claude3等等）~**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/1280X1280.PNG)
+![](https://hlplch.aliyuntm.com/chatgpt/1280X1280.PNG)
 
 **关键是！！随时可以提现，不用担心钱充进去就取不出来了，如果多充了钱，可以随时提取到支付宝，几乎秒到账，本人才开始充了30刀，立马提取出来没有任何延迟问题**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG220.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG220.jpg)
 
 ## **2.升级ChatGPT Plus（GPT-4）**
 
@@ -69,28 +69,28 @@ ChatGPT注册成功后，平台开通了一张卡片（这个就是境外虚拟�
 
 如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240312-091022.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240312-091022.png)
 
 里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
 
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-005200.png)
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-013846.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005200.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013846.png)
 选择下一步会弹出一个需要填ChatGPT支付地址的页面如下：
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-005940.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005940.png)
 
 浏览器新打开一个页面，登录自己的ChatGPT账号把支付链接全选复制过来，步骤如下：
 
 登录自己的ChatGPT账号[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)点击主界面左下角找到ChatGPT更新按钮，来到付款界面后，我们全选复制该界面的链接。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-134928.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094438.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
 将复制的链接粘贴到刚才WildCard升级ChatGpt的页面最右边框中，然后我们点击一键升级ChatGPT，保证卡上有$20美元，支付成功就ChatGPT更新升级就成功，如果你只需要暂时升级一个月，记得取消自动续费。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094627.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094627.png)
 
 ## **3.绕过官方入口，直接进入升级支付**
 
@@ -100,15 +100,15 @@ ChatGPT注册成功后，平台开通了一张卡片（这个就是境外虚拟�
 
 **注意：登录ChatGpt之后，一定要同一浏览器新开一个标签页**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001512.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001512.png)
 
 按照下面的方式完成信息填写。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001543.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001543.png)
 
 填写完信息点击订阅弹出下面的界面就大功告成了！！
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001601.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001601.png)
 
 ## **4.ChatGPT Plus信用卡付款被拒**
 
