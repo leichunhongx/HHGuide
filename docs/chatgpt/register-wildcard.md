@@ -26,19 +26,22 @@ permalink: /register/wildcard/
 虚拟信用卡是一种没有实体卡片的信用卡，它基于银行卡上的BIN码生成一个虚拟账号。
 
 
-如果想直接使用WildCard平台点击链接进入[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
+如果想直接使用WildCard平台点击链接进入[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
 
 
 
 虚拟信用卡通常用于网络交易，可以提供与实体信用卡相同的功能，如卡号、安全码（CVV）和有效期。这种信用卡适用于那些没有国际信用卡或者担心信用卡付款安全的用户。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-172208.png)
 
 特别是在进行国外网上购物、激活各类网上账号、充值等情况下。虚拟信用卡的特点包括不记名性，即没有持卡人概念，任何拥有卡片三要素（卡号、安全码、有效期）的人都可以使用该卡进行支付，使用起来比实体卡还方便。
 
 ## WildCard平台简介
 
 WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务业务，比如：一键自动注册 OpenAI ，一键自动升级 ChatGPT Plus。
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG469.jpg)
 
 WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfans、google play、youtube、spotify等等。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171832.png)
 
 平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单，不是那种点到首页就感觉这家伙要马上跑路的平台可比。
 
@@ -61,7 +64,7 @@ WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfan
 简单来说就是『注册』-> 『使用』->『充值』->『收费』
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004036.png)
 
-点击官网地址进入首页 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
+点击官网地址进入首页 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
 
 如果对注册等有疑问，可以看看这篇文章，保姆级教程指南：[更新ChatGPT Plus，GPT4、GPT-4账号详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 

@@ -29,7 +29,7 @@ permalink: /update/chatgpt/
 
 然后偶然间在朋友圈看到小bei的分享，然后点进去发现是一个专门国内做虚拟信用卡的平台，然后无脑注册，充值了$20美元然后就丝滑般的升级成功了，很是意外，现在记录下注册升级过程。
 
-PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..如果打不开请点备用链接[WildCard备用链接](https://wildcard.com.cn/i/GPT310)
+PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT929)
 
 ## **1.WildCard平台注册虚拟信用卡**
 
@@ -37,9 +37,9 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
-浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
@@ -97,7 +97,7 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 **点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG461.jpg)
 
 **登录ChatGPT账号，获取ChatGPT升级链接**
 
@@ -115,7 +115,7 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG463.jpg)
 
 如果遇到特殊情况导致升级失败请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 
@@ -183,7 +183,7 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 如果自己visa等信用卡购买时，常常会被拒付：OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付。
 
-**可靠的方式是重新注册一张虚拟信用卡**[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)。
+**可靠的方式是重新注册一张虚拟信用卡**[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929)。
 
 ## **7.🔥好用到哭的WildCard，赶紧来试试！**
 
