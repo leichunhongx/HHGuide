@@ -1,8 +1,8 @@
 
 module.exports = {
 	lang: 'zh-CN',
-	title: 'ChatGPT中文站',
-	description: 'ChatGPT中文站',
+	title: 'ChatGPT中文网',
+	description: 'ChatGPT中文网',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
@@ -75,15 +75,15 @@ module.exports = {
 			],
 		}],
 
-	   blogger: {
+	  /* blogger: {
               avatar: '/head.jpg',
-              name: '小小纽扣',
-              slogan: '梦想总在凌云志，意气风发',
-        },
+              name: 'GPT中文站',
+              slogan: '活着就是折腾呀！！！',
+        },*/
 		footer: {
 			createYear: 2024,
 			// 博客创建年份
-			copyrightInfo: 'HH | <a href="https://chatgpt.diqiulian.net/" target="_blank">MIT License</a>',
+			copyrightInfo: 'HH | <a href="https://chatgpt.diqiulian.net/" target="_blank">ChatGPT中文网</a>',
 			// 博客版权信息、备案信息等，支持a标签或换行标签</br>
 		},
 		sidebar: {
