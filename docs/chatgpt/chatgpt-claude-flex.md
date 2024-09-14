@@ -19,7 +19,7 @@ date: 2024-09-06 12:11:02
 
 很多人搞不清楚什么是 ChatGPT 随心用？什么是 Claude 随心用？什么是随心用全能套餐？本文对三种套餐做了全面的QA解答。
 
-如果想直接使用随心用，或者订阅ChatGPT，或者支付 Claude pro 访问[WildCard平台](https://wildcard.com.cn/i/GPT310) 邀请码:**GPT310**，不管是随心用还是开卡都可以使用邀请码。都有优惠可享受。
+如果想直接使用随心用，或者订阅ChatGPT，或者支付 Claude pro 访问[WildCard平台](https://bewildcard.com/i/GPT310) 邀请码:**GPT310**，不管是随心用还是开卡都可以使用邀请码。都有优惠可享受。
 
 ## 一、ChatGPT PLUS
 

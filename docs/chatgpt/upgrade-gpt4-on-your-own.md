@@ -23,8 +23,8 @@ permalink: /upgrade/gpt4/
 
 # 2024最新ChatGPT PLUS升级全过程，简单操作，一步到位！
 
-浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
-如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT929)
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT310)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 

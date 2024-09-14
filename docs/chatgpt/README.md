@@ -26,7 +26,7 @@ date: 2024-08-29 18:11:02
 
 ## 三、WildCard邀请码如何使用
 
-WildCard平台提供了邀请码，通过邀请码可以获得额外开卡优惠，[点此链接直接使用邀请码](https://wildcard.com.cn/i/GPT310) 邀请码：**GPT310**，开卡的时候记得使用
+WildCard平台提供了邀请码，通过邀请码可以获得额外开卡优惠，[点此链接直接使用邀请码](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，开卡的时候记得使用
 
 ## 四、开通WildCard
 
@@ -73,7 +73,7 @@ WildCard平台提供了邀请码，通过邀请码可以获得额外开卡优惠
 
 1. **开卡优惠链接**
 
-[官网链接](https://wildcard.com.cn/i/GPT310) 邀请码：**GPT310**，开卡的时候记得使用。
+[官网链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，开卡的时候记得使用。
 
 2. **支付费用**
 

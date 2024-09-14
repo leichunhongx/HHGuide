@@ -26,7 +26,7 @@ Midjourney官网：[https://www.midjourney.com/home](https://www.midjourney.com/
 是一个独立的研究实验室，专注于探索新的思维方式和扩展人类的想象力。它由一个小型的自筹资金团队组成，该团队专注于设计、人类基础设施和人工智能。Midjourney拥有11名全职员工和一群令人印象深刻的顾问。作为一个AI制图工具。
 
 
-PS：如果想直接注册虚拟卡订阅 Midjourney请点击[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT929)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以订阅，如果平台慢打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT929)
+PS：如果想直接注册虚拟卡订阅 Midjourney请点击[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以订阅，如果平台慢打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT310)
 
 Midjourney能够根据用户输入的关键字通过AI算法生成相应的图片，这一过程只需不到一分钟。与谷歌的Imagen和OpenAI的DALL·E不同，Midjourney是第一个快速生成AI图像的工具。
 
@@ -72,7 +72,7 @@ Midjourney是一个基于人工智能技术的绘画软件，利用深度学习�
 
 它的初衷是为了解决用户海外业务付款难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
-浏览器打开地址：[虚拟卡注册](https://bewildcard.com/i/GPT929) 选择右上角的注册按钮。
+浏览器打开地址：[虚拟卡注册](https://bewildcard.com/i/GPT310) 选择右上角的注册按钮。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240404-205532.png)
 点击去注册：
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183102.png)

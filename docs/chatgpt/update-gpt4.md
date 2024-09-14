@@ -17,8 +17,8 @@ date: 2024-04-29 13:12:24
 permalink: /update/gpt4
 ---
 # 2024最新WildCard虚拟卡升级ChatGPT Plus，零基础轻松升级，按部就班一键搞定！
-**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://bewildcard.com/i/GPT929)
-如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT929)
+**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://bewildcard.com/i/GPT310)
+如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT310)
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 
 **2.注册虚拟卡：** 按照网站的指示，创建您的虚拟卡。这个过程通常非常快速，只需一分钟。
