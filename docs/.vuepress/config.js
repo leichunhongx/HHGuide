@@ -15,9 +15,15 @@ module.exports = {
 		var s = document.getElementsByTagName("script")[0];
 		s.parentNode.insertBefore(hm, s);
 	})();`],
-	['meta', {name: 'keywords',content: 'ChatGPT注册,ChatGPT升级,GPT-4,GPT4,ChatGPT账号,GPT-4升级,ChatGPT Plus 一键升级'}],
+	['meta', {name: 'keywords',content: 'ChatGPT注册,ChatGPT升级,GPT-4,GPT4,GPT-4升级,ChatGPT Plus 一键升级,WildCard虚拟卡'}],
+	['script', {}, `
+      document.addEventListener('DOMContentLoaded', function () {
+        document.body.oncopy = function () { return false; };
+        document.body.oncut = function () { return false; };
+        document.body.oncontextmenu = function () { return false; };
+      });
+    `],
 	],
-
 	plugins: [['sitemap', {
 		hostname: "https://chatgpt.diqiulian.net",
 		// 排除无实际内容的页面

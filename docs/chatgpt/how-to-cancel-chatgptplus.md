@@ -7,10 +7,9 @@ meta:
     content: hatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元
   - 
     name: keywords
-    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号,ChatGPT Plus 如何取消
+    content: ChatGPT Plus如何取消
 tags: 
-  - ChatGPT升级
-  - ChatGpt账号
+  - ChatGPT Plus如何取消
 categories: 
   - ChatGPT升级
 date: 2024-04-29 13:11:58
@@ -20,7 +19,7 @@ permalink: /cancel/chatgpt/
 # 2024最新ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
 ## 1.WildCard平台注册
 
-PS：直接一键注册点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费～
+PS：直接一键注册点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/TOGPT)  邀请码 **TOGPT**，直接免 2 美元的开卡费～
 
 
 ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元，**OpenAI 在多次扣费失败后，可能会封禁我们的帐户**，所以如果不继续使用 ChatGPT Plus，请及时取消订阅。

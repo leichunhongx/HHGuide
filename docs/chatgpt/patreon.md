@@ -7,13 +7,11 @@ meta:
     content: Patreon是一个在线平台，允许内容创作者通过订阅服务的模式从他们的粉丝那里直接获得资金或者打赏。这个平台支持包括艺术家、音乐家、作家、视频制作人等各种创作者，他们通过定期发布独家内容，然后粉丝进行付费或者免费订阅。
   - 
     name: keywords
-    content: patreon订阅,虚拟信用卡,bewildcard平台
+    content: patreon订阅
 tags: 
   - patreon订阅
-  - 虚拟信用卡
-  - bewildcard平台
-categories: 
-  - Patreon虚拟卡订阅
+categories:
+  - WildCard虚拟卡
 date: 2024-04-30 09:11:32
 permalink: /patreon/
 ---
@@ -39,7 +37,7 @@ Patreon 是目前世界上最受欢迎的会员平台之一。 它在过去几�
 
 它的初衷是为了解决用户海外业务付款难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
-浏览器打开地址：[虚拟卡注册](https://bewildcard.com/i/GPT310) 选择右上角的注册按钮。
+浏览器打开地址：[虚拟卡注册](https://bewildcard.com/i/TOGPT) 选择右上角的注册按钮。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240404-205532.png)
 点击去注册：
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183102.png)
