@@ -23,7 +23,7 @@ date: 2024-08-30 18:11:02
 WildCard是WildCard虚拟信用卡，是WildCard虚拟卡的简称，
 支持 一键支付，全球优质软件服务，主要包括chatGpt、claude...
 
-[WildCard官网](https://bewildcard.com/i/TOGPT)  如果需要开卡记得填 邀请码：**TOGPT**，有优惠~
+[WildCard官网](https://yeka.ai/i/GPT310)  如果需要开卡记得填 邀请码：**GPT310**，有优惠~
 
 
 ## WildCard怎么收费？
@@ -152,7 +152,7 @@ $9.99/月 无封号风险，无网络要求，无需 APP 进行语音对话，�
 ### 开卡速度一分钟搞定，能享受邀请码优惠
 
 
-[WildCard开卡点此链接](https://bewildcard.com/i/TOGPT) 邀请码：**TOGPT**，开卡的时候有优惠一定记得使用哦~虚拟卡支撑全球优质服务比如OpenAi,Claude...
+[WildCard开卡点此链接](https://yeka.ai/i/GPT310) 邀请码：**GPT310**，开卡的时候有优惠一定记得使用哦~虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG630.jpg)
 
@@ -246,7 +246,7 @@ OpenAI API 的收据在 Settings-Billings-Billing history
 
 ## 最后
 
-如果真有需要又了解所有细节，如果开卡请点击 [WildCard 一分钟开卡](https://bewildcard.com/i/TOGPT)
+如果真有需要又了解所有细节，如果开卡请点击 [WildCard 一分钟开卡](https://yeka.ai/i/GPT310)
 
 
 

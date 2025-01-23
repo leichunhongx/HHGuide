@@ -57,7 +57,6 @@ module.exports = {
 		sidebarDepth: 2,
 
 		pageStyle: 'line',
-
 		nav: [
 		{
 			text: '首页',

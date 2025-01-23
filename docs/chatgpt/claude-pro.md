@@ -31,7 +31,7 @@ Claude现在能和chatgpt平分秋色的AI大模型。
 
 这三条WildCard都有提供完整的解决方案，WildCard提供**海外手机,邮箱,提供稳定的家庭网络**，提供快速高效的开卡服务。
 
-11.9美元即可开一张虚拟卡，就可以支付Claude Pro，点击 [WildCard访问链接](https://bewildcard.com/i/TOGPT) 填写邀请码：**TOGPT**，开卡有优惠。
+11.9美元即可开一张虚拟卡，就可以支付Claude Pro，点击 [WildCard访问链接](https://yeka.ai/i/GPT310) 填写邀请码：**GPT310**，开卡有优惠。
 
 
 ## 三、WildCard虚拟卡海外手机注册Claude账号
@@ -41,7 +41,7 @@ Claude现在能和chatgpt平分秋色的AI大模型。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG677.jpg)
 
 
-创建Claude账户，手机号海外手机号码验证，很多人被卡在这一步。[WildCard平台](https://bewildcard.com/i/TOGPT)，提供免费的海外手机号服务，可以帮您轻松通过注册海外服务时候的手机短信验证。每个临时手机号可用 25 分钟，过期就无法找回，我们同样免费提供 3 个使用机会。
+创建Claude账户，手机号海外手机号码验证，很多人被卡在这一步。[WildCard平台](https://yeka.ai/i/GPT310)，提供免费的海外手机号服务，可以帮您轻松通过注册海外服务时候的手机短信验证。每个临时手机号可用 25 分钟，过期就无法找回，我们同样免费提供 3 个使用机会。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG622.jpg)
 

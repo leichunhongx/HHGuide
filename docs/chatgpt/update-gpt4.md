@@ -16,8 +16,8 @@ date: 2024-04-29 13:12:24
 permalink: /update/gpt4/
 ---
 # 2024最新WildCard虚拟卡升级ChatGPT Plus，零基础轻松升级，按部就班一键搞定！
-**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://bewildcard.com/i/TOGPT)
-如果打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/TOGPT)
+**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://yeka.ai/i/GPT310)
+如果打不开请点备用链接[WildCard备用链接](https://yeka.ai/i/GPT310)
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 
 **2.注册虚拟卡：** 按照网站的指示，创建您的虚拟卡。这个过程通常非常快速，只需一分钟。
@@ -32,7 +32,7 @@ permalink: /update/gpt4/
 **5.选择订阅类型：** 注册成功后，您将看到两个订阅选项。个人用户通常选择左边的选项，即每月20美元；如果是团队订阅，则选择右边的选项，每月25美元。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
-**6.充值优惠：** 在充值页面，您可以输入邀请码“TOGPT”来享受2美元的优惠。
+**6.充值优惠：** 在充值页面，您可以输入邀请码“GPT310”来享受2美元的优惠。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
 
 **7.获取升级链接：** 登录您的ChatGPT账号，并获取ChatGPT升级链接。
