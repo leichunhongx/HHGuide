@@ -1,5 +1,5 @@
 ---
-title: 2024最新ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
+title: 最新ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
 description: hatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元
 meta: 
   - 
@@ -16,7 +16,7 @@ date: 2024-04-29 13:11:58
 permalink: /cancel/chatgpt/
 ---
 
-# 2024最新ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
+# 最新ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
 ## 1.WildCard平台注册
 
 PS：直接一键注册点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费～

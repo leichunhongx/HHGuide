@@ -1,8 +1,8 @@
 
 module.exports = {
 	lang: 'zh-CN',
-	title: 'ChatGPT中文网',
-	description: 'ChatGPT中文网',
+	title: 'ChatGPT中文指南',
+	description: '提供虚拟卡方案覆盖ChatGPT、Google play服务、Poe等海外服务，有效突破地域和支付限制，让您轻松管理海外支付业务。',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
@@ -25,7 +25,7 @@ module.exports = {
     `],
 	],
 	plugins: [['sitemap', {
-		hostname: "https://chatgpt.diqiulian.net",
+		hostname: "https://wildscard.cn",
 		// 排除无实际内容的页面
 		exclude: ["/404.html"]
 	}],
@@ -88,7 +88,7 @@ module.exports = {
 		footer: {
 			createYear: 2024,
 			// 博客创建年份
-			copyrightInfo: 'HH | <a href="https://chatgpt.diqiulian.net/" target="_blank">ChatGPT中文网</a>',
+			copyrightInfo: 'HH | <a href="https://wildscard.cn/" target="_blank">ChatGPT中文指南</a>',
 			// 博客版权信息、备案信息等，支持a标签或换行标签</br>
 		},
 		sidebar: {

@@ -1,5 +1,5 @@
 ---
-title: 2024最新从注册到订阅，一步到位的Midjourney使用指南
+title: 最新从注册到订阅，一步到位的Midjourney使用指南
 description: Midjourney如何订阅：登录账户、选择订阅计划、支付等。首先，需要登录Midjourney账户并进入订阅中心。选择不同的会员计划，如标准会员（30美金无限量）、基础会员（10美金200张）和专业会员60美金带隐私模式。
 meta: 
   - 
@@ -16,7 +16,7 @@ date: 2024-04-28 17:44:07
 permalink: /midjourney/
 ---
 
-# 2024最新从注册到订阅，一步到位的Midjourney使用指南
+# 最新从注册到订阅，一步到位的Midjourney使用指南
 ## Midjourney简介
 Midjourney官网：[https://www.midjourney.com/home](https://www.midjourney.com/home)
 
